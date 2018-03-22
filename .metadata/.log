@@ -1,0 +1,608 @@
+!SESSION 2018-02-16 11:42:28.654 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file D:\javaprojects\.metadata\.bak_0.log
+Created Time: 2018-02-17 13:48:52.612
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/annotation/AbstractMessageWriterResultHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/annotation/ControllerMethodResolver$ArgumentResolverRegistrar.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/annotation/MatrixVariableMethodArgumentResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/RequestMappingInfo$DefaultBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/InvocableHandlerMethod.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/RequestMappingInfoHandlerMapping.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/RequestMappingInfoHandlerMapping$PartialMatchHelper.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.612
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/method/SyncInvocableHandlerMethod.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/condition/PatternsRequestCondition.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/view/AbstractView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/view/HttpMessageWriterView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/view/freemarker/FreeMarkerView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/view/UrlBasedViewResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/view/ViewResolutionResultHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.622
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/result/view/script/ScriptTemplateView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/accept/RequestedContentTypeResolverBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/accept/ParameterContentTypeResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/DefaultWebClientBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/ExchangeFilterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/DefaultWebClient$DefaultResponseSpec.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/ExchangeFilterFunctions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/ExchangeFilterFunctions$Credentials.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/ClientRequest.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/DefaultClientRequestBuilder$BodyInserterRequest.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.632
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/DefaultClientResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/DefaultWebClient$DefaultRequestBodyUriSpec.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/client/ExchangeFunctions$DefaultExchangeFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/BodyInserters.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicates$AndRequestPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/support/RouterFunctionMapping.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/support/HandlerFunctionAdapter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/DefaultServerResponseBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RouterFunctions$ResourcesRouterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicates$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicates$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicates$PathPatternPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.642
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/ResourceHandlerFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RouterFunctions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RouterFunctions$SameComposedRouterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/DefaultServerResponseBuilder$AbstractServerResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/HandlerFilterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RouterFunctions$DifferentComposedRouterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicates$SubPathServerRequestWrapper$SubPathContainer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/DefaultRenderingResponseBuilder$DefaultRenderingResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/DefaultRenderingResponseBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RouterFunctions$FilteredRouterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/DefaultServerRequest.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.652
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RequestPredicates.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/server/RouterFunctions$DefaultNestedRouterFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/function/BodyExtractors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/DispatcherHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/handler/AbstractUrlHandlerMapping.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/handler/AbstractHandlerMapping.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/UndertowWebSocketClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/StandardWebSocketClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/UndertowWebSocketClient$DefaultNegotiation.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/JettyWebSocketClient$DefaultUpgradeListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/JettyWebSocketClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/StandardWebSocketClient$DefaultConfigurator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/client/ReactorNettyWebSocketClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.662
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/adapter/StandardWebSocketHandlerAdapter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/adapter/ReactorNettyWebSocketSession.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/adapter/AbstractListenerWebSocketSession.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/server/upgrade/ReactorNettyRequestUpgradeStrategy.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/server/upgrade/JettyRequestUpgradeStrategy.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/socket/server/upgrade/TomcatRequestUpgradeStrategy.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/ResourceUrlProvider.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/PathResourceResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/AppCacheManifestTransformer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/GzipResourceResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/VersionResourceResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/ContentVersionStrategy.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.672
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/CachingResourceResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.682
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/WebJarsResourceResolver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.682
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/ResourceWebHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.682
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/CssLinkResourceTransformer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.682
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webflux-5.0.3.RELEASE.jar|org/springframework/web/reactive/resource/CachingResourceTransformer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.912
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/config/annotation/InterceptorRegistry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.922
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/MvcUriComponentsBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.922
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod$ConcurrentResultHandlerMethod.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/ReactiveTypeHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/ReactiveTypeHandler$DeferredResultSubscriber.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/ReactiveTypeHandler$AbstractEmitterSubscriber.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/ExtendedServletRequestDataBinder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/HttpEntityMethodProcessor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.932
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/mvc/method/annotation/DeferredResultMethodReturnValueHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.972
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.972
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/handler/SimpleUrlHandlerMapping.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.972
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/DispatcherServlet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.982
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/view/RedirectView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.982
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/view/AbstractView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.982
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/view/xslt/XsltView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.992
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/view/json/MappingJackson2JsonView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:52.992
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-webmvc-5.0.3.RELEASE.jar|org/springframework/web/servlet/view/script/ScriptTemplateView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.262
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/config/annotation/ServletWebSocketHandlerRegistry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.262
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/config/WebSocketMessageBrokerStats.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.262
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/client/jetty/JettyWebSocketClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.262
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/client/standard/AnnotatedEndpointConnectionManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.262
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/client/standard/StandardWebSocketClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.262
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/client/standard/EndpointConnectionManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.272
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/messaging/WebSocketStompClient$WebSocketTcpConnectionHandlerAdapter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.282
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/sockjs/client/AbstractClientSockJsSession.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.282
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/sockjs/client/RestTemplateXhrTransport.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2018-02-17 13:48:53.282
+!MESSAGE The Java indexing could not index spring-demo-one/lib/spring-websocket-5.0.3.RELEASE.jar|org/springframework/web/socket/sockjs/transport/TransportHandlingSockJsService.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2018-02-18 11:29:27.032 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 1 1 2018-02-18 11:32:16.745
+!MESSAGE Workbench migration started
+
+!ENTRY org.eclipse.ui 1 1 2018-02-18 11:32:23.189
+!MESSAGE Workbench migration finished
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-18 11:33:11.914
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2018-02-18 11:51:11.848
+!MESSAGE Connection to http://download.eclipse.org/webtools/downloads/drops/R3.8.0/R-3.8.0-20160608130753/repository/p2.index failed on Connection timed out: connect. Retry attempt 0 started
+!STACK 0
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient4.ECFHttpClientProtocolSocketFactory.connectSocket(ECFHttpClientProtocolSocketFactory.java:86)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:179)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:612)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:447)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:884)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2018-02-20 11:25:16.220 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-20 11:29:34.225
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-02-25 17:28:18.747 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-25 17:30:08.932
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-02-25 17:33:20.531 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-25 17:33:31.264
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-03-18 11:09:12.421 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 4 567 2018-03-18 11:21:33.204
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2018-03-18 11:21:33.204
+!MESSAGE Could not read metadata for 'RemoteSystemsTempFiles'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The project description file (.project) for 'RemoteSystemsTempFiles' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:901)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:904)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:884)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:735)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1587)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2399)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2156)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:467)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:779)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:772)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:729)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:933)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:309)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:581)
+	at org.eclipse.osgi.container.Module.start(Module.java:449)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:468)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:103)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:529)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:328)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:368)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:442)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:387)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:150)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2018-03-18 11:21:33.224
+!MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2018-03-18 11:21:33.224
+!MESSAGE Could not read metadata for 'less1'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The project description file (.project) for 'less1' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:901)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:904)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:884)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:735)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1587)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2399)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2156)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:467)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:779)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:772)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:729)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:933)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:309)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:581)
+	at org.eclipse.osgi.container.Module.start(Module.java:449)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:468)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:103)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:529)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:328)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:368)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:442)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:387)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:150)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2018-03-18 11:21:33.224
+!MESSAGE The project description file (.project) for 'less1' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2018-03-18 11:21:33.224
+!MESSAGE Could not read metadata for 'wikihow'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The project description file (.project) for 'wikihow' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:901)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:904)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:884)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:735)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1587)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2399)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2156)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:467)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:779)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:772)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:729)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:933)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:309)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:581)
+	at org.eclipse.osgi.container.Module.start(Module.java:449)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:468)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:103)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:529)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:328)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:368)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:442)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:387)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:150)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2018-03-18 11:21:33.224
+!MESSAGE The project description file (.project) for 'wikihow' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-03-18 11:22:52.621
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-03-22 18:39:11.446 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-03-22 18:40:23.390
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-03-22 18:41:13.204
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-03-22 18:44:53.976 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-03-22 18:46:23.026
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-03-22 18:46:30.111
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rahul'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

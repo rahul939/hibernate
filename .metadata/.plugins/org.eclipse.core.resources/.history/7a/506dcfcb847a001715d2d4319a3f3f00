@@ -1,0 +1,21 @@
+  import pack.*;  
+import mypac.*; 
+class Simple{  
+        public static void main(String args[]){  
+         System.out.println("Hello Java");  
+        
+         A obj = new A();  
+         obj.msg();
+         
+         B obj2 = new B();  
+         obj2.msg();
+         obj2.printno();
+          
+         C obj3 = new C();
+        
+          Integer c_int= obj3.c_pub;  
+        System.out.println(""+obj3.college ); 
+        
+        
+        }  
+    }  

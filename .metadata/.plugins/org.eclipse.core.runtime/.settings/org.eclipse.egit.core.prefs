@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\javaprojects\\spring-demo-one\\.git;
-GitRepositoriesView.GitDirectories.relative=spring-demo-one\\.git;
+GitRepositoriesView.GitDirectories=D\:\\javaprojects\\spring-demo-one\\.git;D\:\\javaprojects\\.git;
+GitRepositoriesView.GitDirectories.relative=spring-demo-one\\.git;.git;
 RepositorySearchDialogSearchPath=D\:\\javaprojects\\spring-demo-one
 eclipse.preferences.version=1

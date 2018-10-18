@@ -18,7 +18,7 @@ public class InsertCountries {
 		
 			Session session = Factory.getCurrentSession();
 			
-			 int cot=3;
+			 int cot=25;
 			 String con_name="BD";
 			try {
 				//use session object to save the java object
@@ -26,7 +26,7 @@ public class InsertCountries {
 			 
 				//create a student  object 
 				
-				 Countries tempCounty = new Countries("RR","33",cot);
+				 Countries tempCounty = new Countries("PK","PAKISTAN",3);
 				//start a transaction
 				
 				 session.beginTransaction();
